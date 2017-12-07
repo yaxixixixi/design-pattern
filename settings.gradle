@@ -1,1 +1,1 @@
-include ':app', ':singlepattern', ':observer', ':strategy'
+include ':app', ':singlepattern', ':observer', ':strategy', ':decorator'
